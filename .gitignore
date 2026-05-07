@@ -1,0 +1,17 @@
+# 系统与编辑器
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.env
+
+# 本地运行产物
+*.log
+.sync.log
+runs/*
+!runs/.gitkeep
